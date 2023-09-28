@@ -49,7 +49,7 @@ int main()
                     std::cin >> save;
 
                     if(save=='y'){
-                        save_students(students,ref_studentFileName);
+                        save_students(students,studentFileName);
                         break;
                     }
                     else if(save=='n'){
