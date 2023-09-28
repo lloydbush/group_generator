@@ -1,3 +1,3 @@
 #! /usr/bin/bash
 
-g++ group_gen_0.2.cpp func_def.cpp -o group_gen_0.2
+g++ group_gen_0.2.cpp func_def.cpp -o bin/group_gen_0.2
