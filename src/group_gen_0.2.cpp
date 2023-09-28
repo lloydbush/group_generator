@@ -6,7 +6,7 @@
 #include <time.h>
 #include <unistd.h>
 
-#include "../func_dec.hpp"
+#include "../include/func_dec.hpp"
 
 int main()
 {
