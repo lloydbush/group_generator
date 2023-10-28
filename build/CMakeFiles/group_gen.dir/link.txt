@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/group_gen.dir/functions.cpp.o CMakeFiles/group_gen.dir/main.cpp.o -o group_gen 
