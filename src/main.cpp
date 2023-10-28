@@ -1,12 +1,4 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-#include <cstdlib>
-#include <time.h>
-#include <unistd.h>
-
-#include "../include/func_dec.hpp"
+#include "header.h"
 
 int main()
 {

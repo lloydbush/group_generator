@@ -1,3 +1,11 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+#include <cstdlib>
+#include <time.h>
+#include <unistd.h>
+
 int out_opt(); //prints options and takes option input
 
 void add_student(std::vector<std::string>& ref_students); //1

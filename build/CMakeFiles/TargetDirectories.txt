@@ -1,0 +1,3 @@
+/home/lloyd/Documents/code/c++/group_generator/build/CMakeFiles/group_gen.dir
+/home/lloyd/Documents/code/c++/group_generator/build/CMakeFiles/edit_cache.dir
+/home/lloyd/Documents/code/c++/group_generator/build/CMakeFiles/rebuild_cache.dir
